@@ -1,9 +1,6 @@
 
 package dao;
-/**
- *
- * @author mariajosegonzalezhidalgo
- */
+
 import java.sql.Connection;
 import java.util.ArrayList;
 import org.junit.After;
